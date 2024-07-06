@@ -1,23 +1,28 @@
-<h1 align="center">Hi 👋, I'm Satwik Agarwal</h1>
-<h3 align="center">Exploring!</h3>
+## Hi, I’m Satwik Agarwal <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Programmer;I'm+a+Web+Developer;I'm+a++Computer+Science+Undergraduate" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satwikagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="satwikagarwal" /> </p>
+<p align ="center">
+  <a href="mailto:satwikagarwal1@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a>
+   <a href="https://linkedin.com/in/satwik agarwal" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+ 
+  </a>  
+  <a href="https://instagram.com/agarwal_satwik" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="example"/>
+    </a>
+  </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Proficient in **Java ,DSA , ReactJS , NodeJs, MongoDB**
-
-- 📫 How to reach me **satwikagarwal1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/satwik agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satwik agarwal" height="30" width="40" /></a>
-<a href="https://instagram.com/agarwal_satwik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agarwal_satwik" height="30" width="40" /></a>
+<p >A Final Year EEE Undergraduate at National Institute of Technology Delhi who is a passionate Programmer , Full Stack Web Developer.
 </p>
 
 
-<br/>
-<br/>
+
 <br/>
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
@@ -88,8 +93,6 @@
   </a>
 </p>
 
-<br/>
-<br/>
 <br/>
 
 

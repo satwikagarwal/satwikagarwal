@@ -12,9 +12,6 @@
   </a>   
  
   </a>  
-  <a href="https://instagram.com/agarwal_satwik" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="example"/>
-    </a>
   </p>
 
 

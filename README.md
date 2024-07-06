@@ -26,7 +26,7 @@
 
 <p align="center">
 <a href="https://www.java.com" target="_blank">
-  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40">
 </a>
 
 <a href="https://www.iso.org/standard/74528.html" target="_blank">
@@ -34,7 +34,7 @@
 </a>
 
 <a href="https://www.javascript.com/" target="_blank">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
 </a>
 
 <a href="https://www.python.org" target="_blank">

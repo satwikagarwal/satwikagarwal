@@ -44,7 +44,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-
+## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satwikagarwal&show_icons=true&locale=en&layout=compact" alt="satwikagarwal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satwikagarwal&show_icons=true&locale=en" alt="satwikagarwal" /></p>
